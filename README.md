@@ -1,3 +1,3 @@
 1. yarn
 2. yarn dev
-enjoy
+3. enjoy
