@@ -18,10 +18,7 @@ export const TreeContainer = styled.div`
 
 export const Tree = styled.div`
   margin-top: 20px;
-  min-height: 1000px;
-  max-width: 1000px;
-
-  width: 500px;
+  min-height: 500px;
 
   flex-basis: 50%;
 
